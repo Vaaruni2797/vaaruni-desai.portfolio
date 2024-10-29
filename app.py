@@ -6,7 +6,7 @@ def load_image(image_file):
     with open(image_file, "rb") as f:
         return base64.b64encode(f.read()).decode()
 
-image_path = load_image("images\IMG_20241025_205634.jpg")  # Adjust path to your image
+image_path = load_image("images/IMG_20241025_205634.jpg")  # Adjust path to your image
 
 # Function to create circular images
 def circular_image(image_path):
