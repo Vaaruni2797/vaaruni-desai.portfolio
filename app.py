@@ -92,7 +92,7 @@ with tab2:
         Led the development of a real-time posture analysis tool using pose estimation algorithms with over 95% accuracy.
         This computer vision project incorporated advanced machine learning techniques to enhance patient assessments.
     """)
-    st.markdown("[Project Demo](https://book-genre-prediction.streamlit.app)")
+    st.markdown("[Project Demo](https://library.ucsd.edu/dc/object/bb46200419)")
 
     # Project 2: Book Genre Prediction
     st.subheader("Book Genre Prediction")
