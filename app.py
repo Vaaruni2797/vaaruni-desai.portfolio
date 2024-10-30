@@ -54,7 +54,7 @@ st.markdown(
         h3 {
             color: yellow;  /* Smaller header color */
         }
-        p {
+        p,li {
             color: white;  /* Paragraph text color */
         }
     </style>
@@ -133,4 +133,4 @@ with tab3:
 # Contact Section
 with tab4:
     st.header("Contact")
-    st.write("Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/vaaruni-desai/) or email at [v1desai@ucsd.edu](mailto:v1desai@ucsd.edu).")
+    st.write("Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/vaaruni-desai/).")
