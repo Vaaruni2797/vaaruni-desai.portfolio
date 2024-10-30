@@ -103,12 +103,12 @@ with tab2:
     st.markdown("[Project Demo](https://book-genre-prediction.streamlit.app) | [GitHub Repository](https://github.com/Vaaruni2797/book-genre-prediction)")
 
     # Project 3: Math Score Prediction
-    st.subheader("Math Score Prediction")
+    st.subheader("Taylor Swift Song Recommender")
     st.write("""
-        Created a regression model to predict students' math scores based on various factors, deployed on Streamlit.
-        The project demonstrates proficiency in regression modeling and interactive dashboards.
+        This project is a **Taylor Swift Song Recommender**, leveraging Spotify's API and a custom recommendation algorithm to suggest songs based on user-selected tracks. 
+        Users can explore personalized music recommendations while enjoying a sleek, dark-themed interface that enhances the listening experience.
     """)
-    st.markdown("[Project Demo](https://math-score-prediction.streamlit.app)")
+    st.markdown("[Project Demo](https://recommendations4swifties.streamlit.app/)")
 
 # Skills Section
 with tab3:
